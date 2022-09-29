@@ -4,4 +4,4 @@
 ## [Demo](https://dev-paixao.github.io/responsive-footer/)
 
 ## Preview
-![Preview](./img/preview.jpg)
+![Preview](./img/preview.png)
