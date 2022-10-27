@@ -84,7 +84,7 @@ footer::before{
     color: #0077B5;
     background: #ffffff;
 }
-footer .content .link-boxes{
+footer .cabecalho .link-boxes{
     width: 100%;
     display: flex;
     justify-content: space-between;
